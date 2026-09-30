@@ -1,5 +1,24 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun factAbout Me:<br><br>🚀 I’m currently working on<br>Building and improving software solutions, digital transformation projects, and practical systems that solve real-world problems.<br><br>🤝 I’m looking to collaborate on<br>Software development, AI-powered solutions, digital transformation, ERP systems, and innovative technology projects.<br><br>🧑‍💻 I’m looking for help with<br>Exploring advanced software architecture, AI integration, automation, and turning complex ideas into scalable products.<br><br>🌱 I’m currently learning<br>AI Agents, Large Language Models (LLMs), AI automation, modern software architecture, and advanced web technologies.<br><br>💬 Ask me about<br>Software development, information systems, AI, ERP, digital transformation, technical management, and building real-world applications.<br><br>⚡ Fun fact<br>I enjoy turning ideas into working systems — from the initial concept and architecture to development and deployment.
+# 💫 About Me
+
+👨‍💻 **Technical Manager | Software & Information Systems Engineer**
+
+🔭 **I’m currently working on**  
+Building and improving software solutions, digital transformation projects, and practical systems that solve real-world problems.
+
+👯 **I’m looking to collaborate on**  
+Software development, AI-powered solutions, digital transformation, ERP systems, and innovative technology projects.
+
+🤝 **I’m looking for help with**  
+Advanced software architecture, AI integration, automation, and transforming complex ideas into scalable and reliable products.
+
+🌱 **I’m currently learning**  
+AI Agents, Large Language Models (LLMs), AI automation, modern software architecture, and advanced web technologies.
+
+💬 **Ask me about**  
+Software development, information systems, AI, ERP systems, digital transformation, technical management, and building real-world applications.
+
+⚡ **Fun fact**  
+I enjoy turning ideas into working systems — from the initial concept and architecture to development and deployment.
 
 
 ## 🌐 Socials:
